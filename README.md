@@ -63,29 +63,29 @@ Create Database OLA;
 use ola;
 select * from bookings;
 
- # 1. Retrieve all successful bookings:
+  1. Retrieve all successful bookings:
  
 create view successful_bookings as 
  select * from bookings 
  where booking_status ='Success';
  
  
-  # 1. Retrieve all successful bookings:
+ 1. Retrieve all successful bookings:
 
  select * from successful_bookings;
  
- # 2. Find the average ride distance for each vehicle type:
+  2. Find the average ride distance for each vehicle type:
  create view avg_ride_distance as
  select vehicle_type,round(avg(ride_distance),2)
  from bookings
  group by vehicle_type;
  
-  # 2. Find the average ride distance for each vehicle type:
+  2. Find the average ride distance for each vehicle type:
 
  select * from avg_ride_distance;
  
  
-# 3. Get the total number of cancelled rides by customers:
+3. Get the total number of cancelled rides by customers:
 
 
 create view canceled_rides_by_customers as
@@ -94,7 +94,7 @@ where booking_status = 'Canceled by customer';
 
 select * from canceled_rides_by_customers;
 
-# 4. List the top  10 customers who booked the highest number of rides:
+ 4. List the top  10 customers who booked the highest number of rides:
 
 create view top10_customers as 
 select customer_id, count(booking_id) as total_rides from bookings
