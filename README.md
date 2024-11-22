@@ -20,5 +20,7 @@ Cancellation
 Revenue
 Ratings
 
+![image](https://github.com/user-attachments/assets/0c87d4f0-3c99-4368-aaaf-2db7aed29f67)
+
 
 
