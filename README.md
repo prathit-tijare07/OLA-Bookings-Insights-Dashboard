@@ -4,24 +4,21 @@ This repository contains the code and analysis for the OLA Data Analysis project
 
 # About Project 👨‍💻 :- 
 
-DataSet:
-For this project we are taken the dataset from kaggle in which there are 20 columns and approx 1 lakh + rows and the file is in csv format.
-
-# Application of this Project:
+For this project we are taken the OLA Bookings dataset in which there are 20 columns and approx 1 lakh + rows and the file is in csv format.
 Overview
 The OLA Data Analysis project involves analyzing a dataset of ride-sharing transactions. The goal is to uncover insights such as:
-# The main objective is to build dashboard with key metrics, insights and visualizations on company Revenue,Ratings, Cancellation, Vehicle Type and details of service utilization.
+The main objective is to build dashboard with key metrics, insights and visualizations on company Revenue,Ratings, Cancellation, Vehicle Type and details of service utilization.
 
 Data cleaning is performed using Power BI ( Power Query Editor)
 
 • Developed a Powerbi Dashboard to perform analysis, producing quantitative visualization in Powerbi to determine the company revenue , performance and what action should be taken to improve the growth of the company.
 
 
-# Overview of Booking Status
-# Vehicle Type
-# Cancellation
-# Revenue
-# Ratings
+Overview of Booking Status
+Vehicle Type
+Cancellation
+Revenue
+Ratings
 
 
 
