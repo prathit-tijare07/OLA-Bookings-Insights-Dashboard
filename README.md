@@ -76,9 +76,4 @@ SQL Questions:
 
 
 
- where Incomplete_rides = 'yes';
- 
- select * from incomplete_rides;
-
-
 
