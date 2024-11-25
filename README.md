@@ -21,6 +21,8 @@ Cancellation
 Revenue
 Ratings
 
+Checkout Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiYjU0YjM3NmYtOTlhYS00MzYwLWEyODgtNWQxMWNkMDA0ZmI0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 ![image](https://github.com/user-attachments/assets/0c87d4f0-3c99-4368-aaaf-2db7aed29f67)
 ![image](https://github.com/user-attachments/assets/559f5e46-e755-4105-bb14-aa36386675d3)
 ![image](https://github.com/user-attachments/assets/772e0211-11ce-442c-9408-81ea68534f65)
